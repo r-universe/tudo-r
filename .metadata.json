@@ -1,0 +1,10 @@
+[
+  {
+    "package": "BatchExperiments",
+    "oncran": true
+  },
+  {
+    "package": "BatchJobs",
+    "oncran": true
+  }
+]
