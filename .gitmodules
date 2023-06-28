@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "BatchExperiments"]
 	path = BatchExperiments
 	url = https://github.com/tudo-r/batchexperiments
-	shallow = true
-	registered = true
 [submodule "BatchJobs"]
 	path = BatchJobs
 	url = https://github.com/tudo-r/batchjobs
-	shallow = true
-	registered = true
